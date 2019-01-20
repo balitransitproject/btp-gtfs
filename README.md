@@ -6,5 +6,6 @@ Generated using [easy-timetable-generator](https://github.com/mapanica/easy-time
 
 [Tutorial for adding bus stops](https://wiki.openstreetmap.org/wiki/Buses#Adding_a_bus_route_to_OpenStreetMap)
 
-## Areas
+## Focus areas
 Ubud
+Denpasar
