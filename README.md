@@ -2,8 +2,9 @@
 
 A repository of General Transit Feeds Specification (GTFS) for Bali transit systems.
 
-# Table
+## Table
 
-City/Village name
+City/Village names
 ---------
 Ubud
+Denpasar
