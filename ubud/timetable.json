@@ -3,7 +3,9 @@
     "lines": {
         "1": [
             {
-                "exeptions": [],
+                "exeptions": [
+                    "2019-03-07"
+                ],
                 "from": "Monkey Forest Central Parking",
                 "services": [
                     "Mo-Su"
