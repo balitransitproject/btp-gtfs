@@ -1,2 +1,0 @@
-feed_publisher_name,feed_start_date,feed_version,feed_end_date,feed_lang,feed_publisher_url
-Joakim Skjefstad,20190101,1.0,20191231,en,https://raw.githubusercontent.com/balitransitproject/btp-gtfs/master/ubud/mfus-ubud-id.zip
